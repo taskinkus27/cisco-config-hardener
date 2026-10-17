@@ -1,0 +1,6 @@
+{
+  "name": "Cisco IOS & Packet Tracer Config Security Auditor",
+  "description": "AI-powered Cisco router and switch configuration security scanner, vulnerability detector, CIS benchmark auditor, and IOS hardening generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
